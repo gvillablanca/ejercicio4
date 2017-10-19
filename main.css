@@ -1,0 +1,66 @@
+#header{
+	background-color: yellow;
+	border:1px solid black;
+	text-align: center;
+	width: 900px;
+}
+.contenido1{
+	border: 1px solid black;
+	position: absolute;
+	width: 300px;
+	height: 600px;
+	left: 8px;
+
+}
+.contenido2{
+	border: 1px solid black;
+	position: absolute;
+	width: 300px;
+	height: 600px;
+	left: 308px;
+	
+
+}
+.contenido3{
+	border: 1px solid black;
+	position: absolute;
+	width: 300px;
+	height: 600px;
+	left: 608px;
+}
+.texto{
+	margin:20px;
+	text-align: justify;
+}
+h2{
+	margin:30px;
+	text-align: center;
+}
+.img1{
+	float: right;	
+	margin:20px;
+	height: 150px;
+	width: 200px;
+	margin-top: 150px;
+
+}
+.img2{
+	float: left;	
+	margin:20px;
+	height: 150px;
+	width: 200px;
+	margin-top: 180px;
+}
+.enlaces{
+	background-color: yellow;
+	position: absolute;
+	text-align: center;
+	border: 1px solid black;
+	width: 900px;	
+	top: 610px;
+	height: 20px;
+}
+.text{
+	margin:2px;
+}
+
